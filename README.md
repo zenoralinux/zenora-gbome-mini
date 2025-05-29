@@ -49,3 +49,30 @@ Heavy animations disabled
 ### 🔗 Related Projects
 - [Zenora GNOME Pro](https://github.com/zenoralinux/zenora-gnome-pro)
 - [Zenora GNOME Pro](https://github.com/zenoralinux/zenora-plasma)
+
+
+
+
+To run **Zenora Minimal with the lightweight GNOME desktop environment** efficiently, your system should meet at least the following specifications:
+
+## **🔹 Minimum Requirements**
+| **Component**       | **Minimum Specs** |
+|---------------------|-------------------|
+| **CPU**             | **Intel/AMD x64 (Dual-core)** |
+| **RAM**             | **1GB** (2GB recommended) |
+| **Storage**         | **10GB** (for base system + essential apps) |
+| **GPU**             | **Any GPU supporting OpenGL 2.0+** |
+| **Display Resolution** | **1024×600** (basic displays supported) |
+
+---
+
+## **🔹 Recommended Requirements**
+| **Component**       | **Recommended Specs** |
+|---------------------|------------------------|
+| **CPU**             | **Intel Core i3 / AMD Ryzen 3 or better** |
+| **RAM**             | **3GB or more** |
+| **Storage**         | **20GB+** (for additional packages and files) |
+| **GPU**             | **Intel HD/UHD, AMD Radeon, or NVIDIA (open drivers)** |
+| **Display Resolution** | **1366×768 or higher** |
+
+---
